@@ -1,3 +1,5 @@
+# SSAFY 2학기 첫번째 공통프로젝트 SpringSecurity 구현 도중 실패 코드
+
 # PJT III - Backend Branch
 - Branch Name
     - master
